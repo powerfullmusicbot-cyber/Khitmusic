@@ -155,8 +155,8 @@ Sᴀɴʏᴀ ʜᴀs ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ AI ᴄʜᴀᴛʙᴏᴛ ᴡɪᴛ
 **Hᴏᴡ ᴛᴏ Usᴇ:**
 1. **Iɴ Gʀᴏᴜᴘs:**
    - Admins can use `/chatbot` to enable/disable the AI.
-   - To talk to her, reply to her messages or mention her (`@SanyaxMusicBot`).
-   - She will also respond to short greetings like 'hi', 'hello', 'sanya', etc.
+   - To talk to her, reply to her messages or mention her (`@HANTHAR1999_Bot`).
+   - She will also respond to short greetings like 'hi', 'hello', 'han thar', etc.
 2. **Iɴ PM:**
    - Use `/chatbot` to enable/disable the AI.
    - Just send her a message to talk.
