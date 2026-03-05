@@ -47,7 +47,7 @@ Features<p>
 
 ## ❍ Commands
 <div align="center">
-𝑆𝑡𝑎𝑟𝑡 𝑆𝑎𝑛𝑦𝑎 𝐵𝑜𝑡 𝑡𝑜 𝑠𝑒𝑒 𝑎𝑙𝑙 𝑐𝑜𝑚𝑚𝑎𝑛𝑑𝑠 𝑜𝑟 𝑠𝑒𝑒 commands.txt 𝑓𝑖𝑙𝑒
+𝑆𝑡𝑎𝑟𝑡 KHIT 𝐵𝑜𝑡 𝑡𝑜 𝑠𝑒𝑒 𝑎𝑙𝑙 𝑐𝑜𝑚𝑚𝑎𝑛𝑑𝑠 𝑜𝑟 𝑠𝑒𝑒 commands.txt 𝑓𝑖𝑙𝑒
 </div>
 
  [@HANTHAR1999](https://t.me/HANTHAR1999_Bot) & [commands.txt](https://github.com/khithlainhtet/khitmusic/blob/main/commands.txt)
